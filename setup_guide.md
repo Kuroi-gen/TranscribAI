@@ -9,7 +9,7 @@
 コマンドプロンプトまたは PowerShell でプロジェクトフォルダへ移動し、以下のコマンドを実行してください。
 
 ```powershell
-cd D:\002_MyDocuments\000_Study\002_Programing\013_Antigravity\TranscribAI
+cd TranscribAI
 pip install -r requirements.txt
 ```
 
