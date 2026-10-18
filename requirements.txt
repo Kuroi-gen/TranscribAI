@@ -1,0 +1,6 @@
+PyQt6
+PyAudioWPatch
+numpy
+openai>=1.0.0
+python-dotenv
+httpx
